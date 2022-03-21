@@ -1,2 +1,2 @@
-# CPE_551
+# CPE551
 Python work from class
